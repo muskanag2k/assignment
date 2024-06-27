@@ -1,6 +1,6 @@
 # reading the log file.
 def readFile
-  File.open("web-server.log")
+  File.open("./web-server.log")
 end
 
 
