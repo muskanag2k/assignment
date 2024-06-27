@@ -32,7 +32,7 @@ end
 # iterating the hash to get response code and count.
 def iteratehash (responses)
   responses.each do |key, value|
-    puts "Respolonse code :#{key} has a count of #{value}"
+    puts "Response code :#{key} has a count of #{value}"
   end
 end
 
