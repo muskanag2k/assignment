@@ -7,4 +7,4 @@ Write a shell script (zsh/bash) that parses this file and outputs the following:
 You may download the log file and save it locally for testing purposes. For the second part, your script must find all response codes in a generic fashion, you should not hard-code searches for a known list of response codes.
 
 
-Execute ruby logreader.log
+Execute ruby logreader.rb
